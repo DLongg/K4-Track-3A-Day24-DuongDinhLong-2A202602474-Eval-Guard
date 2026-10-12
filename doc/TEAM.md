@@ -8,7 +8,7 @@ Trưởng nhóm/người nộp: Dương Đình Long - 2A202602474
 
 Ngày lab/deadline áp dụng: 2026-10-12 23:59 — Asia/Ho_Chi_Minh (UTC+07:00)
 
-Commit dùng để chấm: b9f8d5b53bc4f94899aa30fdc52c30be0e96eb6d
+Commit dùng để chấm: 8075c1b9c7f8bc5dd00948df24db7fac4cc45f4a
 
 Mỗi nhóm nộp một repo. Điền đủ thành viên và một mục INDIVIDUAL cho từng người.
 Thêm/xóa rows để khớp nhóm thật; mẫu ba rows không ép nhóm phải có ba người.
